@@ -30,7 +30,3 @@ Direct to the 'dicitonary' folder and open the index.html file. The program will
 - SASS
 - Flexbox
 - Mobile-first workflow
-
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
